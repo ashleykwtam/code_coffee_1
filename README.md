@@ -1,4 +1,4 @@
-code_coffee_1
+Cofee & Code Session 1
 =============
 
-BOOGIE WONDERLAND
+Bitmaker Coffee and Code sessions that work on honing ruby techniques.
